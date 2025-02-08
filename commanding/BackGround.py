@@ -1,0 +1,10 @@
+Black = "\033[40m"   # Black
+Dark = "\033[40m"    # Dark
+Red = "\033[41m"     # Red
+Green = "\033[42m"   # Green
+Yellow = "\033[43m"  # Yellow
+Blue = "\033[44m"    # Blue
+Magenta = "\033[45m" # Magenta
+Cyan = "\033[46m"    # Cyan
+White = "\033[47m"   # White
+Reset = "\033[0m"    # Reset
